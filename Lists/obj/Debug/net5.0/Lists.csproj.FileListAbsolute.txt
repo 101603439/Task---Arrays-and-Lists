@@ -1,0 +1,16 @@
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.csprojAssemblyReference.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\Arrays and Lists\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
